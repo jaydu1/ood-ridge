@@ -1,5 +1,8 @@
 # Optimal Ridge Regularization for Out-of-Distribution Prediction
 
+This repository contains code for reproducing results in the paper *Optimal Ridge Regularization for Out-of-Distribution Prediction*.
+
+
 ## Scripts
 
 The following files are included in this repository:
